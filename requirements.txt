@@ -1,0 +1,4 @@
+sarvamai
+streamlit>=1.40
+scipy
+pandas
