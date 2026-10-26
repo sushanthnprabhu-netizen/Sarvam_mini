@@ -142,16 +142,5 @@ The dashboard is designed to report:
 
 BhashaLab is an experimental prototype. The individual API integrations, audio response handling, and statistical calculations must be tested in the target environment before the complete workflow can be considered verified.
 
-## Roadmap
 
-- [ ] Verify the first Sarvam chat completion.
-- [ ] Validate transcription and translation.
-- [ ] Test structured response extraction.
-- [ ] Validate follow-up generation and speech synthesis.
-- [ ] Improve statistical methodology and sample-size estimation.
-- [ ] Add persistent respondent records and downloadable research results.
-- [ ] Deploy the dashboard securely.
 
-## License
-
-Choose a license before distributing or accepting external contributions to the project.
